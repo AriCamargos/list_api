@@ -1,16 +1,47 @@
-# api_list
+<h1 align="center">
+Api List  🧾
+</h1>
 
-A new Flutter project.
+<p align="center">
 
-## Getting Started
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AriCamargos/list_api">
+  
+  <img alt="Version" src="https://img.shields.io/badge/version-3.3.0-blue">
+  
+ 
 
-This project is a starting point for a Flutter application.
+  <a href="https://github.com/AriCamargos/list_api">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AriCamargos/list_api">
+  </a>
 
-A few resources to get you started if this is your first Flutter project:
+  <a href="[https://github.com/AriCamargos/ApiMobcar](https://github.com/AriCamargos/list_api/issues)">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AriCamargos/list_api">
+  </a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Flutter
+- Dart
+- Pacote http
+
+## 💻 Projeto
+Uma lista com Cosumo de uma Api externa.
+
+### Imagem do projeto
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.mit.edu/~amini/LICENSE.md) para mais detalhes.
+
+ 
